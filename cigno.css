@@ -56,3 +56,7 @@ button {
   display: grid;
   grid-template-columns: 100px 1fr 100px;
 }
+
+.Favicon {
+  border-radius:50%;
+}
